@@ -1,5 +1,5 @@
 # Portscanner
-Let's checkout which of your port is opened.
+Let's check which ports are opened in our system.
 scan your first 1000 ports
 
 
